@@ -1,6 +1,6 @@
-Me do code<br />
-Me study computer science<br />
-Code Hard<br />
-Me dumb
+Me do code\
+Me study computer science\
+Code Hard\
+Me dumb\
 
 
