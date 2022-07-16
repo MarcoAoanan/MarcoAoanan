@@ -1,6 +1,6 @@
-Me do code /n
-Me study computer science
-Code Hard
+Me do code<br />
+Me study computer science<br />
+Code Hard<br />
 Me dumb
 
 
